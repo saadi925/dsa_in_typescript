@@ -1,0 +1,136 @@
+Beginner Level
+Basic Data Structures
+
+Arrays
+Strings
+Linked Lists
+Singly Linked List
+Doubly Linked List
+Basic Algorithms
+
+Searching
+Linear Search
+Binary Search
+Sorting
+Bubble Sort
+Selection Sort
+Insertion Sort
+Merge Sort
+Quick Sort
+Mathematics
+
+Basic Arithmetic
+Prime Numbers
+Greatest Common Divisor (GCD)
+Least Common Multiple (LCM)
+Factorial
+Fibonacci Series
+Recursion
+
+Basic Recursion
+Tail Recursion
+Recursive vs Iterative Solutions
+Intermediate Level
+Advanced Data Structures
+
+Stacks
+Queues
+Simple Queue
+Circular Queue
+Priority Queue
+Deque (Double-Ended Queue)
+Trees
+Binary Tree
+Binary Search Tree (BST)
+AVL Tree
+Red-Black Tree
+Heaps
+Min-Heap
+Max-Heap
+Hashing
+Hash Tables
+Hash Functions
+Collision Resolution Techniques
+Graph Algorithms
+
+Graph Representations
+Adjacency Matrix
+Adjacency List
+Depth-First Search (DFS)
+Breadth-First Search (BFS)
+Dijkstra’s Algorithm
+Floyd-Warshall Algorithm
+Bellman-Ford Algorithm
+Topological Sort
+Dynamic Programming
+
+Memoization
+Tabulation
+Common DP Problems
+Fibonacci
+Longest Common Subsequence (LCS)
+Longest Increasing Subsequence (LIS)
+0/1 Knapsack
+Coin Change Problem
+Greedy Algorithms
+
+Coin Change Problem
+Activity Selection
+Huffman Coding
+Kruskal’s Algorithm
+Prim’s Algorithm
+Advanced Level
+Advanced Data Structures
+
+Tries
+Segment Trees
+Fenwick Tree (Binary Indexed Tree)
+Disjoint Set (Union-Find)
+Advanced Graph Algorithms
+
+Strongly Connected Components (Tarjan’s Algorithm)
+Shortest Path Faster Algorithm (SPFA)
+Johnson’s Algorithm
+Network Flow
+Ford-Fulkerson Algorithm
+Edmonds-Karp Algorithm
+Dinic’s Algorithm
+String Algorithms
+
+KMP Algorithm
+Rabin-Karp Algorithm
+Z Algorithm
+Boyer-Moore Algorithm
+Suffix Arrays
+Suffix Trees
+Advanced Topics
+
+Bit Manipulation
+Backtracking
+N-Queens Problem
+Sudoku Solver
+Subset Sum
+Computational Geometry
+Convex Hull
+Line Intersection
+Number Theory
+Sieve of Eratosthenes
+Modular Arithmetic
+Fermat’s Little Theorem
+Chinese Remainder Theorem
+Preparatory Topics for FAANG-Level Interviews
+System Design Basics
+
+Load Balancing
+Caching
+Sharding
+CAP Theorem
+Database Indexes
+Commonly Asked Problems
+
+Two Sum, Three Sum
+Longest Substring Without Repeating Characters
+Median of Two Sorted Arrays
+Merge Intervals
+Meeting Rooms
+LRU Cache
